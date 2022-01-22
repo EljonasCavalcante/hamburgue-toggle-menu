@@ -1,0 +1,15 @@
+/*  ===== Resert ===== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #04202e;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+
+}
